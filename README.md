@@ -10,3 +10,16 @@
 - ⚡ Fun fact: When I’m coding, there’s no such thing as sleep — our nights belong to code!  
 
 Feel free to reach out to connect or collaborate on exciting projects!
+
+## Projects
+
+- [NewTrain AI Trading Bot](newtrain_bot/README.md) – moving average crossover example with MT5 GUI.
+
+### Quick Start for NewTrain Bot
+
+Install dependencies and launch the GUI from the repository root:
+
+```bash
+pip install -r newtrain_bot/requirements.txt
+python -m newtrain_bot.gui
+```
